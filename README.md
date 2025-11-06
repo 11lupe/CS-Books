@@ -22,8 +22,6 @@
 >
 >【腾讯云】轻量应用服务器限时秒杀，**1核2G6M** 限时首年**74**元/年【阿秀强烈推荐】 <a href="https://curl.qcloud.com/R21rJgZ7" target="_blank">传送门</a>
 
-
-
 ####   2、🔥🔥🔥计算机校招求职学习网站
 
 我把**自己秋招时的上岸字节跳动的学习笔记**做成一个网站了，适用于**计算机校招应届生以及毕业三年之内的社招求职党**，<a href="https://interviewguide.cn/#/" target="_blank">传送门</a>
@@ -33,22 +31,16 @@
   <img src="http://oss.interviewguide.cn/img/202205161146636.png" target="_blank">
   </a>
 </div>
-#### 3、⭐️编程资源网⭐️
+#### 3、 ⭐️黑科技资源网⭐️
 
-分享一个编程资源网，经常被问去哪里找资源这种问题，我就把我收藏的这个编程资源网分享给大家，其中有很多**编程资源**，都按照类别划分好了：
+分享一个黑科技资源网，经常被问去哪里找资源这种问题，我就把我收藏的这个黑科技资源网分享给大家，其中有很多**编程资源**，都按照类别划分好了：
 
 - **编程语言：Java、C++、Golang、Python、前端、其他语言等**
 - **计算机基础：操作系统、计算机网络、数据结构与算法、数据库、设计模式；**
 - **电子书籍：开源仓库、电子书网站等**
 - ....
 
-<img src="http://oss.interviewguide.cn/img/202401092028317.png" style="zoom:33%;" />
-
-**网站链接**：[https://tools.interviewguide.cn/home](https://tools.interviewguide.cn/home)
-
-
-
-
+**网站链接**：[https://hkjtz.cn/](https://hkjtz.cn/)
 
 #### 4、😄学习计算机八九年收集到的一些不错的资料免费分享，包括清华北大计算机课程资源等，[点此一键白嫖](https://interviewguide.cn/notes/07-resources/01-free/01-introduce.html)
 
@@ -64,10 +56,9 @@
     <p>这些书籍基本都是我从一个盗版电子书网站上收集到的，网址是：kanshuy1234.com，现在分享出来希望能对大家有所帮助，自己也花了很久时间整理出来的。<br>
       如果觉得本仓库有用，赏赐一块钱，买杯奶茶喝可好？感谢您了~</p>
 <figure class="half" align="center">
-    <img src="https://cdn.jsdelivr.net/gh/forthespada/mediaImage1@1.2.5.4/202012/支付宝赞赏4.png" style="right;zoom: 40%;" />
-                                                                                                                        <img src="https://cdn.jsdelivr.net/gh/forthespada/mediaImage1@1.2.5.4/202012/微信赞赏4.png"  style="right;zoom: 40%;" />
+    <img src="https://oss.interviewguide.cn/img/202511062053852.png" style="right;zoom: 40%;" />
+                                                                                                                        <img src="https://oss.interviewguide.cn/img/202511062054242.png"  style="right;zoom: 40%;" />
                                                                                                                          </figure></div>
-
 
 
 
